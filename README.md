@@ -1,4 +1,5 @@
 🎨 Görüntü Renk Analizi ve İyileştirme Aracı
+
 💡 Proje Hakkında
 Bu proje, Python ve OpenCV kütüphanelerini kullanarak görüntülerdeki baskın renkleri tespit etme, histogram eşitleme ile görüntü parlaklığını iyileştirme ve çeşitli renk uzaylarında (HSV, RGB, YCrCb, LAB, Luv) detaylı renk analizi yapma yeteneğine sahip gelişmiş bir görüntü işleme aracıdır. Kullanıcı dostu arayüzü sayesinde, bir klasördeki tüm görüntüler üzerinde bu işlemleri toplu olarak gerçekleştirebilirsiniz.
 
